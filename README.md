@@ -2,7 +2,8 @@
 The Invoke-Command cmdlet runs commands on a local or remote computer and returns all output from the commands, including errors. Using a single Invoke-Command command, you can run commands on multiple computers.
 
 
-Verified on the following platforms
+Verified on the following platforms:
+
 Windows 10	Yes
 Windows Server 2012	Yes
 Windows Server 2012 R2	No
